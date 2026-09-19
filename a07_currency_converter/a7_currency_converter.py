@@ -2,6 +2,7 @@
 # This is a currency converter to practice exception handling. 
 
 # I'm providing you with this dictionary. Use this in writing your code.
+# -professor
 conversion_rates = { 
     "EUR": 0.93, # Euro 
     "GBP": 0.81, # British Pound 
