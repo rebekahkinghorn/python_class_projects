@@ -2,7 +2,7 @@
 
 Python assignments I completed for IS 303 at Brigham Young University in Fall 2024. This collection shows my work with user input, dictionaries, loops, functions, exception handling, object-oriented programming, data analysis, and databases.
 
-Each folder contains a separate assignment. These are learning projects, and some retain the assumptions and limitations of the original coursework.
+Each folder contains a separate assignment. These are learning projects.
 
 ## Assignments
 
@@ -19,7 +19,7 @@ Each folder contains a separate assignment. These are learning projects, and som
 
 ## Requirements
 
-Install Python 3 before running these programs. A02–A09 use Python's standard library and local assignment files; they do not need additional packages.
+Install Python 3 before running these programs. A02–A09 use Python's standard library and local assignment files. They don't need any additional packages!
 
 A10 and A11 need these packages:
 
@@ -84,7 +84,7 @@ The program creates `movies.db` in the current folder and saves your movie list 
 
 ## Credits and Authorship
 
-I wrote the assignment implementations as a student in IS 303. The assignment designs, requirements, prompts, and course-provided materials belong to the instructor/course, and I do not claim them as my original work.
+I wrote the assignment implementations as a student in IS 303. The assignment designs, requirements, prompts, and course-provided materials belong to the instructor/course, and I don't claim them as my original work.
 
 The original GitHub Classroom repositories include course-material updates by [jacobsteffenBYU](https://github.com/jacobsteffenBYU). Specific provided material includes:
 
